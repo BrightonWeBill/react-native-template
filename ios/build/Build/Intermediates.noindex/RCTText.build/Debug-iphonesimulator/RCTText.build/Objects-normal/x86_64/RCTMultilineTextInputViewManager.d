@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.m \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputViewManager.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputViewManager.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextViewManager.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/Multiline/RCTMultilineTextInputView.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/brighton/Documents/Work/Courses/template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/brighton/Documents/Work/Courses/template/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h
