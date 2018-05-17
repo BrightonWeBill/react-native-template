@@ -11,17 +11,15 @@
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "lint-staged": {
-    "*.{js,jsx,json,css}": [
-      "prettier --single-quote --write",
-      "git add"
-    ]
+    "*.{js,jsx,json,css}": ["prettier --single-quote --write", "git add"]
   },
   "scripts": {
     "start": "react-native-scripts start",
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest"
+    "test": "jest",
+    "precommit": "lint-staged"
   },
   "jest": {
     "preset": "jest-expo"
